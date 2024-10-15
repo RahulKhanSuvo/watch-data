@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "price": 8950,
+    "image_url": "https://newsroom-content.rolex.com/-/media/project/rolex/newsroom/rolex/rolex-newsroom-int/share/new-submariner-banner.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster",
+    "price": 5400,
+    "image_url": "https://bulangandsons.eu/cdn/shop/articles/B_S_Strap_Guide_Omega_Speedmaster_Pro_01B.jpg?v=1690532180&width=2048"
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera",
+    "price": 3700,
+    "image_url": "https://swisswatches-magazine.com/wp-content/uploads/2024/01/tag-heuer-carrera-chronograph-dato-CBS2211.FC6545-front.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Series 8",
+    "price": 399,
+    "image_url": "https://www.apple.com/newsroom/images/product/watch/lifestyle/Apple-watchOS-9-Compass-app-220907_inline.jpg.large.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Seiko Prospex",
+    "price": 550,
+    "image_url": "https://78a8f771.aerocdn.com/image-factory/ec64c907b14385670bf7142cdb3f184339d62750~1000x1000/images/products/FkXYduVISiHX66OL9OPuhAmivZoaD26eEUx7Iz8N.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Casio G-Shock",
+    "price": 100,
+    "image_url": "https://www.casio.com/content/casio/locales/in/en/products/watches/gshock/products/g-squad/_jcr_content/root/responsivegrid/container/container/content_panel_list_c/content_panel_202305291250072806/image.casiocoreimg.jpeg/1722947098536/gbd-300-kv.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Patek Philippe Nautilus",
+    "price": 30000,
+    "image_url": "https://magazine.chrono24.com/cdn-cgi/image/f=auto,metadata=none,fit=cover,q=65,w=1190,h=595,dpr=2.0/2022/09/E_Magazin_2_1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Breitling Navitimer",
+    "price": 7800,
+    "image_url": "https://cdn.watchswiss.com/wp-content/uploads/2022/03/BR-NAVITIMER-B01-43_AB0138211B1P1_AB0138241G1P1_AB0138241K1P1_AB0138241C1P1_AB0138241L1P1_australia-sydney-melbourne-perth-canberra-1600x1067.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fossil Gen 5",
+    "price": 299,
+    "image_url": "https://imgk.timesnownews.com/story/1565359488-Fossil_Gen_5.jpg?tr=w-400,h-300,fo-auto"
+  },
+  {
+    "id": 10,
+    "name": "Garmin Forerunner 945",
+    "price": 600,
+    "image_url": "https://res.garmin.com/en/products/010-02063-00/g/v3-010-02063-00-fan-of-products-mobile-9d7cbbc6-cd87-40e8-a74a-52cebe7b9fc5.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Citizen Eco-Drive",
+    "price": 220,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt4yqgZ7_Km9Gzzc9lBgWSXvQ5GXsrMbA0Q&s"
+  },
+  {
+    "id": 12,
+    "name": "Hamilton Khaki Field",
+    "price": 750,
+    "image_url": "https://hodinkee.imgix.net/uploads/images/6481ad13-5896-4091-aee5-00d49518d46c/20240724_HamiltonKhaki_005.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12"
+  },
+  {
+    "id": 13,
+    "name": "Tissot PRX",
+    "price": 375,
+    "image_url": "https://twobrokewatchsnobs.com/wp-content/uploads/2023/05/Tissot-PRX-01-1024x576.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Audemars Piguet Royal Oak",
+    "price": 45000,
+    "image_url": "https://timepiecetradingllc.com/cdn/shop/articles/Audemars_Piguet_Royal_Oak_in_Rose_Gold.png?v=1689376269"
+  },
+  {
+    "id": 15,
+    "name": "Longines HydroConquest",
+    "price": 1200,
+    "image_url": "https://www.cortinawatch.com/my/wp-content/uploads/sites/2/2024/03/Cortina-Watch-Longines-Hydroconquest-GMT-feature.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Samsung Galaxy Watch 5",
+    "price": 250,
+    "image_url": "https://corporatemall.fairelectronics.com.bd/media/catalog/product/cache/01cd8b6e84de5ba656ee8bb28f2212b1/g/a/galaxy-watch5.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Hublot Big Bang",
+    "price": 12500,
+    "image_url": "https://www.ablogtowatch.com/wp-content/uploads/2022/02/Hublot-Big-Bang-Integral-Time-Only-40mm-7-1024x1024.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Montblanc Summit 2",
+    "price": 995,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZyGoCAwkgsHoBw_grIG7jOzux0hh__wrnQ&s"
+  },
+  {
+    "id": 19,
+    "name": "Oris Aquis Date",
+    "price": 1950,
+    "image_url": "https://oris.rokka.io/dynamic/noop/5527f2621b505af169f881da9bb22c2fe1d08d02/oris-aquis-date-emotion-01-highres-7320.jpg"
+  },
+  {
+    "id": 20,
+    "name": "IWC Pilot's Watch",
+    "price": 4500,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl3GBGy7FDgnyftqL9XfVVacy2iphQUTeRqw&s"
+  }
+]
